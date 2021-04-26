@@ -1,0 +1,81 @@
+.navbar{
+    background-color: #E3CC91;
+}
+.header {
+    background-color: #E3CC91;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5ch;
+    height: 6ch;
+}
+
+li {
+    margin-left: 20ch;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    background-image: url("image/pexels-cristian-rojas-7260716.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.footer {
+    background-color: #E3CC91;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    position: relative;
+    top: 100px
+}
+
+.line {
+    color: white;
+}
+
+.firstimage {
+
+    height: 542px;
+    margin-bottom: 5ch;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.second image {
+    width: 64%;
+    height: 542px;
+
+
+
+}
+
+img {
+    width: 100%;
+    height: 500PX;
+}
+
+p {
+    color: #E5C573;
+
+}
+
+.s {
+    padding-top: 67%;
+}
+.container-fluid{
+    background-color: #E5C573;
+}
